@@ -34,4 +34,5 @@ No artifacts after build
 Made changes to build configuration to create .jar  
 ![build5](build5.jpg)  
 ### Step 17 ###  
+![build6](build6.jpg)  
 
