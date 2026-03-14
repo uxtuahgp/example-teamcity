@@ -25,4 +25,13 @@ Added new method sayHunter
 Added test for replay with hunter  
 Ran build successfully  
 ![Build3](build3.jpg)  
+### Steps 14-15 ###  
+Merged changes from add_replay to master  
+Ran build successfully  
+![build4](build4.jpg)  
+No artifacts after build  
+### Step 16 ###  
+Made changes to build configuration to create .jar  
+![build5](build5.jpg)  
+### Step 17 ###  
 
