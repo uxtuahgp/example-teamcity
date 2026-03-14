@@ -20,3 +20,9 @@ Configured build configuration export to github repo
 ![Build2vcs](build2vcs.png)  
 ### Step 9 ###  
 Added feature/add_replay 
+### Steps 10-13 ###  
+Added new method sayHunter  
+Added test for replay with hunter  
+Ran build successfully  
+![Build3](build3.jpg)  
+
